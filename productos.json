@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nombre": "Resident Evil 2 Remake",
+        "precio": 35500,
+        "imagen": "https://i.pinimg.com/originals/e4/65/99/e46599f46774154fe547ecf334639f4d.jpg",
+        "categoria": "Juegos"
+    },
+    {
+        "id": 2,
+        "nombre": "Consola Playstation Ps4 1tb",
+        "precio": 76260,
+        "imagen": "https://www.cordobadigital.net/wp-content/uploads/2023/11/PS4-1tb.png",
+        "categoria": "Consolas"
+    },
+    {
+        "id": 3,
+        "nombre": "Soportes Pared Ps4",
+        "precio": 6600,
+        "imagen": "https://tauroparts.com/wp-content/uploads/2021/05/Slim-600x600.jpg",
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 4,
+        "nombre": "Placa de video Nvidia GeForce GT 1030",
+        "precio": 51700,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_823560-MLU72820801963_112023-O.webp",
+        "categoria": "Componentes"
+    },
+    {
+        "id": 5,
+        "nombre": "Call of duty modern warfare 3",
+        "precio": 33000,
+        "imagen": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwiii/MWIII-REVEAL-FULL-TOUT.jpg",
+        "categoria": "Juegos"
+    },
+    {
+        "id": 6,
+        "nombre": "Consola Xbox one 1tb",
+        "precio": 77000,
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_834546-MLA50832788403_072022-O.webp",
+        "categoria": "Consolas"
+    },
+    {
+        "id": 7,
+        "nombre": "Cubierta de joystick para mando de PS4",
+        "precio": 4500,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_931923-MLA44132715260_112020-O.webp",
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 8,
+        "nombre": "Procesador gamer AMD ryzen 7",
+        "precio": 44000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_894487-MLA53145808015_012023-O.webp",
+        "categoria": "Componentes"
+    },
+    {
+        "id": 9,
+        "nombre": "The elder scrolls V: Skyrim special edition",
+        "precio": 39000,
+        "imagen": "https://store-images.s-microsoft.com/image/apps.64810.68326442227858632.03782b23-7f26-4a8e-ba87-177bdf2c3c90.fdefe49f-270c-44e5-b660-6d7764b37f0f",
+        "categoria": "Juegos"
+    },
+    {
+        "id": 10,
+        "nombre": "Nintendo switch 32gb",
+        "precio": 65000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_883371-MLA32731749246_112019-O.webp",
+        "categoria": "Consolas"
+    },
+    {
+        "id": 11,
+        "nombre": "Cargador para joystick PS4",
+        "precio": 8700,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_799819-MLA44367659204_122020-O.webp",
+        "categoria": "Accesorios"
+    },
+    {
+        "id": 12,
+        "nombre": "Enfriamiento para pc gamer",
+        "precio": 21700,
+        "imagen": "https://mcegamer.com/wp-content/uploads/2021/03/LIQTECH-II-TR4-280-1-450x450.jpg",
+        "categoria": "Componentes"
+    }
+]
